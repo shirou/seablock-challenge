@@ -7,7 +7,49 @@
 		<language>en-us</language>
 		<author></author>
 		<rights>Copyright (c) 2018</rights>
-		<updated>2018-12-30 14:32:38 &#43;0900 JST</updated>
+		<updated>2018-12-30 17:11:21 &#43;0900 JST</updated>
+		
+		<item>
+			<title>ハーバー・ボッシュ法</title>
+			<link>https://seablock-challenge.netlify.com/posts/bosch/</link>
+			<pubDate>Sun, 30 Dec 2018 17:11:21 JST</pubDate>
+			<author></author>
+			<guid>https://seablock-challenge.netlify.com/posts/bosch/</guid>
+			<description>&lt;p&gt;人類の叡智、ハーバー・ボッシュ法。空気から窒素を固定する。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%BB%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5%E6%B3%95&#34;&gt;ハーバー・ボッシュ法&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Seablockでももちろん大活躍。アンモニアを始めとした窒素化合物を生産する基盤となる。&lt;/p&gt;
+
+&lt;p&gt;窒素に加えて、酸素も生産できるのが良い。AirFilterから窒素 + 酸素を作って窒素は捨てる。
+AirFilterはどこでもおけるので、酸素が必要なところにぽんとおけばいい。これを使わない場合は、水から水素分解とか
+必要になり、水場が必要になる。&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img src=&#34;https://seablock-challenge.netlify.com/images/2018-12-30-bosch.PNG&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;ハーバー・ボッシュ法&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+		</item>
+		
+		<item>
+			<title>メインバス</title>
+			<link>https://seablock-challenge.netlify.com/posts/main-bus/</link>
+			<pubDate>Sun, 30 Dec 2018 14:57:37 JST</pubDate>
+			<author></author>
+			<guid>https://seablock-challenge.netlify.com/posts/main-bus/</guid>
+			<description>&lt;p&gt;メインバスを構築中&lt;/p&gt;
+
+&lt;p&gt;各バスはベルトを4つ分。&lt;/p&gt;
+
+&lt;p&gt;バスの間はベルトをもう一つ通せるように、4 + Ground用の2の6。&lt;/p&gt;
+
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img src=&#34;https://seablock-challenge.netlify.com/images/2018-12-30-belt.PNG&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;ベルト&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+		</item>
 		
 		<item>
 			<title>Seablock challenge開始</title>
@@ -19,7 +61,7 @@
 
 &lt;p&gt;Seablockとは、Factorioのmodの一つです。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://forums.factorio.com/viewtopic.php?t=43759&#34;&gt;https://forums.factorio.com/viewtopic.php?t=43759&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://forums.factorio.com/viewtopic.php?t=43759&#34;&gt;Seablock config&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;細かい紹介はここでは省きますが、factorioのmodであるBob &amp;amp; Angelをベースにし、「海の上」しかないという状態にしたものです。&lt;/p&gt;
 
@@ -40,7 +82,8 @@
 &lt;p&gt;と聞くとすごいめんどくせーと思うかもしれませんが、seablockの魅力は「資源が尽きない」ことです。元が海水ですからね。つまり一度設置すればずーっとその機能は使えるわけです。モジュール化して拡大していけばそれがそのまま使い続けられるわけです。これにより、例えば「あー、この鉱床尽きたから別のところに移るかぁ。遠いから鉄道引かなきゃなぁ」とかがなくなり、Factorioの魅力である「リファクタリングして効率を追求する」ことに集中できるわけです。&lt;/p&gt;
 
 &lt;p&gt;とはいえ、機械を動かすためには電気が必要なので無尽蔵に設置していけるわけではありません。そのあたりはおいおい。&lt;/p&gt;
-</description>
+
+&lt;p&gt;このblogを始めている時点ですでに100時間以上経っているので、最初の段階では参考にならないかもしれませんが、気にせずに続けます。&lt;/p&gt;</description>
 		</item>
 		
 	</channel>

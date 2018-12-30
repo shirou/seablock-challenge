@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Seablock Challenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
+    <lastBuildDate>Sun, 30 Dec 2018 14:57:37 +0900</lastBuildDate>
     
 	<atom:link href="https://seablock-challenge.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Place</title>
+      <link>https://seablock-challenge.netlify.com/tags/place/</link>
+      <pubDate>Sun, 30 Dec 2018 14:57:37 +0900</pubDate>
+      
+      <guid>https://seablock-challenge.netlify.com/tags/place/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

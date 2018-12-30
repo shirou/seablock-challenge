@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Place on Seablock Challenge</title>
+    <link>https://seablock-challenge.netlify.com/tags/place/</link>
+    <description>Recent content in Place on Seablock Challenge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 30 Dec 2018 14:57:37 +0900</lastBuildDate>
+    
+	<atom:link href="https://seablock-challenge.netlify.com/tags/place/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>メインバス</title>
+      <link>https://seablock-challenge.netlify.com/posts/main-bus/</link>
+      <pubDate>Sun, 30 Dec 2018 14:57:37 +0900</pubDate>
+      
+      <guid>https://seablock-challenge.netlify.com/posts/main-bus/</guid>
+      <description>&lt;p&gt;メインバスを構築中&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

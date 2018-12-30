@@ -3,9 +3,11 @@ languageCode = "ja-JP"
 title = "Seablock Challenge"
 theme = "story"
 enableEmoji = true
+uglyURLs = true
+canonifyURLs = true
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  posts = "/:year/:month/:filename/"
 [taxonomies]
   category = "categories"
   tag = "tags"
