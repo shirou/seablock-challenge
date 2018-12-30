@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Seablock Challenge </title>
+		<link>https://seablock-challenge.netlify.com/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author></author>
+		<rights>Copyright (c) 2018</rights>
+		<updated>2018-12-30 14:32:38 &#43;0900 JST</updated>
+		
+		<item>
+			<title>開始</title>
+			<link>https://seablock-challenge.netlify.com/posts/initial/</link>
+			<pubDate>Sun, 30 Dec 2018 14:32:38 JST</pubDate>
+			<author></author>
+			<guid>https://seablock-challenge.netlify.com/posts/initial/</guid>
+			<description>&lt;p&gt;開始しました。&lt;/p&gt;
+</description>
+		</item>
+		
+	</channel>
+</rss>

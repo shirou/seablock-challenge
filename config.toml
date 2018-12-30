@@ -1,0 +1,5 @@
+baseURL = "https://seablock-challenge.netlify.com/"
+languageCode = "ja-JP"
+title = "Seablock Challenge"
+theme = "story"
+enableEmoji = true
