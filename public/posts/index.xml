@@ -12,12 +12,19 @@
     
     
     <item>
-      <title>開始</title>
+      <title>Seablock challenge開始</title>
       <link>https://seablock-challenge.netlify.com/posts/initial/</link>
       <pubDate>Sun, 30 Dec 2018 14:32:38 +0900</pubDate>
       
       <guid>https://seablock-challenge.netlify.com/posts/initial/</guid>
-      <description>開始しました。</description>
+      <description>Seablock をはじめました。
+Seablockとは、Factorioのmodの一つです。
+https://forums.factorio.com/viewtopic.php?t=43759
+細かい紹介はここでは省きますが、factorioのmodであるBob &amp;amp; Angelをベースにし、「海の上」しかないという状態にしたものです。
+海の上なので、鉱床とかはなく、すべて海水から生成します。例えば、
+ 海水を組み上げる 電気分解してslagを生成 slagを水に溶かして slag水を生成 slag水をフィルターを溶かしてミネラル水を生成 ミネラル水から結晶を生成 結晶を砕く 砕いた結晶を精製するとoreができる  というような感じです。普通のfactorioではいきなり掘れるわけなので、この時点で7倍ぐらい手間がかかっています。しかも、これは一番最初の段階で、もっと効率が良い手段を研究していくと、更に段階を経る必要が出てきます。
+と聞くとすごいめんどくせーと思うかもしれませんが、seablockの魅力は「資源が尽きない」ことです。元が海水ですからね。つまり一度設置すればずーっとその機能は使えるわけです。モジュール化して拡大していけばそれがそのまま使い続けられるわけです。これにより、例えば「あー、この鉱床尽きたから別のところに移るかぁ。遠いから鉄道引かなきゃなぁ」とかがなくなり、Factorioの魅力である「リファクタリングして効率を追求する」ことに集中できるわけです。
+とはいえ、機械を動かすためには電気が必要なので無尽蔵に設置していけるわけではありません。そのあたりはおいおい。</description>
     </item>
     
   </channel>

@@ -3,3 +3,6 @@ languageCode = "ja-JP"
 title = "Seablock Challenge"
 theme = "story"
 enableEmoji = true
+
+[permalinks]
+  post = "/:year/:month/:title/"

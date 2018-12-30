@@ -10,12 +10,36 @@
 		<updated>2018-12-30 14:32:38 &#43;0900 JST</updated>
 		
 		<item>
-			<title>開始</title>
+			<title>Seablock challenge開始</title>
 			<link>https://seablock-challenge.netlify.com/posts/initial/</link>
 			<pubDate>Sun, 30 Dec 2018 14:32:38 JST</pubDate>
 			<author></author>
 			<guid>https://seablock-challenge.netlify.com/posts/initial/</guid>
-			<description>&lt;p&gt;開始しました。&lt;/p&gt;
+			<description>&lt;p&gt;Seablock をはじめました。&lt;/p&gt;
+
+&lt;p&gt;Seablockとは、Factorioのmodの一つです。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://forums.factorio.com/viewtopic.php?t=43759&#34;&gt;https://forums.factorio.com/viewtopic.php?t=43759&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;細かい紹介はここでは省きますが、factorioのmodであるBob &amp;amp; Angelをベースにし、「海の上」しかないという状態にしたものです。&lt;/p&gt;
+
+&lt;p&gt;海の上なので、鉱床とかはなく、すべて海水から生成します。例えば、&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;海水を組み上げる&lt;/li&gt;
+&lt;li&gt;電気分解してslagを生成&lt;/li&gt;
+&lt;li&gt;slagを水に溶かして slag水を生成&lt;/li&gt;
+&lt;li&gt;slag水をフィルターを溶かしてミネラル水を生成&lt;/li&gt;
+&lt;li&gt;ミネラル水から結晶を生成&lt;/li&gt;
+&lt;li&gt;結晶を砕く&lt;/li&gt;
+&lt;li&gt;砕いた結晶を精製するとoreができる&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;というような感じです。普通のfactorioではいきなり掘れるわけなので、この時点で7倍ぐらい手間がかかっています。しかも、これは一番最初の段階で、もっと効率が良い手段を研究していくと、更に段階を経る必要が出てきます。&lt;/p&gt;
+
+&lt;p&gt;と聞くとすごいめんどくせーと思うかもしれませんが、seablockの魅力は「資源が尽きない」ことです。元が海水ですからね。つまり一度設置すればずーっとその機能は使えるわけです。モジュール化して拡大していけばそれがそのまま使い続けられるわけです。これにより、例えば「あー、この鉱床尽きたから別のところに移るかぁ。遠いから鉄道引かなきゃなぁ」とかがなくなり、Factorioの魅力である「リファクタリングして効率を追求する」ことに集中できるわけです。&lt;/p&gt;
+
+&lt;p&gt;とはいえ、機械を動かすためには電気が必要なので無尽蔵に設置していけるわけではありません。そのあたりはおいおい。&lt;/p&gt;
 </description>
 		</item>
 		
