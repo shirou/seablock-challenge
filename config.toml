@@ -6,3 +6,6 @@ enableEmoji = true
 
 [permalinks]
   post = "/:year/:month/:title/"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
