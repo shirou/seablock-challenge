@@ -13,3 +13,6 @@ tags: ["place"]
 バスの間はベルトをもう一つ通せるように、4 + Ground用の2の6。
 
 {{< figure src="/images/2018-12-30-belt.PNG" title="ベルト" class="center" >}}
+
+
+(追記: その後LTNの導入によりこのメインベルトは見直されました)
